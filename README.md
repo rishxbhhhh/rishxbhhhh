@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @rishxbhhhh
-- 🌱 I’m currently learning everything
-     what a B.Tech in CS can offer also
-     In my free time I am learning
-     Full Stack Development through this 
-     amazing Portal: ODINPROJECT.
 - 📫 How to reach me:
      Email: rajpurohitrishabh1@gmail.com
      Call: +91 8929566279
