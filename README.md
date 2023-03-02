@@ -2,7 +2,7 @@
 - 📫 How to reach me:
      Email: rajpurohitrishabh1@gmail.com
      Call: +91 8929566279
-- 🎨 PortFolio: https://rishxbhhhh.github.io/frontend_react/
+- 🎨 PortFolio: rishabhdeveloper.me/frontend_react/
 
 <!---
 rishxbhhhh/rishxbhhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
